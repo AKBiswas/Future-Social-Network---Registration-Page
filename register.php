@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html>
+<html>  <!-- this web site is designed and developed by Argha Kumar Biswas -->
 <head>
-    <title>My Future Social Network</title>
+    <title>Future Social Network</title>
     <meta name="description" contents="Simple registration page with HTML, CSS, BootStrap, JS, PHP and MySQL">
     <meta name="keyword" contents="HTML, CSS, JS, PHP, MySQL, registration page, registration page with php and mysql">
     <meta name="author" contents="Argha Kumar Biswas">
