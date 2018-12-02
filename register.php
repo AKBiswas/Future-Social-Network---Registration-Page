@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html>  <!-- this web site is designed and developed by Argha Kumar Biswas -->
+<!-- this web site is designed and developed by Argha Kumar Biswas -->
+<html>  
 <head>
     <title>Future Social Network</title>
     <meta name="description" contents="Simple registration page with HTML, CSS, BootStrap, JS, PHP and MySQL">
@@ -212,7 +213,7 @@
     <div id="ftr">
       <footer>
         <p>This web site is designed and developed by Argha Kumar Biswas</p>
-        <p>I know this web site isn't perfect so feel free to add and modify the code</p>
+        <p>I know this web site isn't perfect so feel to copy and modify it.</p>
         <p>BUT don't forget to mention me and the source from where found this web site by sharing the link to my Github account</p>
       </footer>
     </div>
@@ -239,9 +240,9 @@
         $password = "";
         $dbname = "user data";
 
-        // Create connection
+      
         $conn = new mysqli($servername, $username, $password, $dbname);
-        // Check connection
+        
         if ($conn->connect_error) {
              die("Connection failed: " . $conn->connect_error);
         } 
