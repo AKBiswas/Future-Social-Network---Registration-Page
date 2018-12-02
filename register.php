@@ -214,7 +214,7 @@
       <footer>
         <p>This web site is designed and developed by Argha Kumar Biswas</p>
         <p>I know this web site isn't perfect so feel to copy and modify it.</p>
-        <p>BUT don't forget to mention me and the source from where found this web site by sharing the link to my Github account</p>
+        <p>BUT don't forget to mention me and the source from where found this web site by sharing the link to my Github account <a href="https://github.com/AKBiswas/Future-Social-Network---Registration-Page">https://github.com/AKBiswas/Future-Social-Network---Registration-Page</a></p>
       </footer>
     </div>
    </div>
